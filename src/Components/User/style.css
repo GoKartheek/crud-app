@@ -1,0 +1,18 @@
+.user-wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+}
+
+.profile-img {
+    width: 70px;
+    height: 70px;
+    /* border-radius: 50%; */
+}
+
+/* .options {
+    margin: 5px;
+} */

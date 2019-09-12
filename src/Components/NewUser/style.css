@@ -1,0 +1,33 @@
+.new-employee-wrapper {
+    width: 25vw;
+    height: auto;
+    box-shadow: 0 20px 25px -5px rgba(0,0,0,.1),0 10px 10px -5px rgba(0,0,0,.04)!important;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.new-emp-field {
+    display: block;
+    margin: 12px;
+}
+
+.submit {
+    margin: 12px;
+    background-color: lightcoral;
+    border: none;
+    outline: none;
+    color: #fff;
+    padding: 5px 10px ;
+}
+
+.close-icon {
+    width: 25px;
+    height: 25px;
+}
